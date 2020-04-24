@@ -37,7 +37,7 @@ namespace ServiceBusAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateHost([FromBody]PlayerForCreationDto player)
+        public IActionResult CreateHost([FromBody]PlayerForUpdateDto player)
         {
             try
             {
@@ -109,7 +109,7 @@ namespace ServiceBusAPI.Controllers
 
         [Route("JoinGame")]
         [HttpPost("session_Code")]
-        public IActionResult JoinHost(string session_Code, [FromBody]PlayerForCreationDto player)
+        public IActionResult JoinHost(string session_Code, [FromBody]PlayerForUpdateDto player)
         {
             if (player == null)
             {
