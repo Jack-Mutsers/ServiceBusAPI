@@ -13,6 +13,9 @@ D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netco
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
@@ -39,6 +42,12 @@ D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netco
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -62,8 +71,10 @@ D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netco
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\Microsoft.ServiceBus.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 D:\programeren\semester 2\individual\ServiceBusAPI\ServiceBusAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll

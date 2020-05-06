@@ -77,7 +77,7 @@ namespace ServiceBusAPI.Controllers
                 // end create new session
 
                 // start create new topic
-                TopicData data = creator.CreateNewTopic();
+                TopicData data = creator.CreateNewTopic(session_code);
                 data.sessionCode = session_code;
 
                 _repository.TopicData.CreateTopic(data);
